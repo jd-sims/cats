@@ -1,0 +1,6 @@
+.cat {
+  background: url("../../images/two_colored_cat.png");
+  background-size: cover;
+  width: 1200px;
+  height: 1200px;
+}
